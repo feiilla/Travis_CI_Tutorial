@@ -18,4 +18,5 @@ deploy:
   branch: tag 
   repo: feiilla/Travis_CI_Tutorial
 notifications: 
- email: - 401380841@qq.com
+ email: 
+  - 1251957442@qq.com
